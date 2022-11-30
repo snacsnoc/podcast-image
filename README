@@ -1,5 +1,5 @@
 # podcast-image
-
+![screenshot](https://geekness.eu/sites/default/files/screenshot-podcast-image.jpg)
 Use AI generated images created from prompts transcribed from audio, in this case podcasts. This project is very unfinished, but it works.
 
 `convert.py` convert MP3 to mono WAV
